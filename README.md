@@ -43,4 +43,4 @@ This project was built to practice and improve my front-end development skills. 
 
 ## 🤝 Connect with Me
 
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile/) 
+🔗 [LinkedIn](https://www.linkedin.com/in/nufailshaikh/) 
