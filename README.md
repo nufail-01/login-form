@@ -17,7 +17,8 @@ A clean and user-friendly login page designed using HTML and CSS to enhance my f
 
 ## 🌐 Live Demo
 
-[![Website Preview](assets/login form.png)(https://nufail-01.github.io/login-form/)]
+[![Website Preview](assets/login form.png
+)](https://nufail-01.github.io/login-form/)
 
 ---
 
